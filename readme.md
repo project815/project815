@@ -7,4 +7,5 @@
 
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ske3056)](https://solved.ac/ske3056)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=project815)](https://github.com/project815/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ske3056)](https://solved.ac/ske3056)
+
