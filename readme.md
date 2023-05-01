@@ -8,5 +8,3 @@
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ske3056)](https://solved.ac/ske3056)
-
-  
